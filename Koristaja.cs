@@ -8,21 +8,13 @@ namespace KT
 {
     class Koristaja: MyProfession
     {
-        public void arendajateruum()
+        public Koristaja()
         {
-
-        }
-        public void ülemusteruum()
-        {
-
-        }
-        public void köök()
-        {
-
-        }
-        public void andmetöötlejateruum()
-        {
-
+            Name = "Koristaja";
+            ArendajateRuum = true;
+            ÜlemusteRuum = false;
+            Köök = true;
+            AndmetetöötlejateRuum = true;
         }
     }
 }

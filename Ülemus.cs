@@ -8,6 +8,16 @@ namespace KT
 {
     class Ülemus: MyProfession
     {
+
+        public Ülemus()
+        {
+            Name = "Ülemus";
+            ArendajateRuum = true;
+            ÜlemusteRuum = true;
+            Köök = true;
+            AndmetetöötlejateRuum = true;
+        }
+        
         
         public void arendajateruum()
         {

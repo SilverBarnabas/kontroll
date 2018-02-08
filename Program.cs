@@ -15,8 +15,8 @@ namespace KT
 
             if (profession == 1)
             {
-                var MyProfession = new myprofession();
-                Ülemus.myprofession();
+                Console.WriteLine("Welcome work!\nWhere do you want to go?\n1 - Arendajate ruum\n2 - Ülemuste ruum\n3 - Köök\n4 - Andmetöötlejate ruum");
+
             }
             if (profession == 2)
             {

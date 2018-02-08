@@ -8,21 +8,12 @@ namespace KT
 {
     class Vanemarendaja: MyProfession
     {
-        public void arendajateruum()
+        public Vanemarendaja()
         {
-
-        }
-        public void ülemusteruum()
-        {
-
-        }
-        public void köök()
-        {
-
-        }
-        public void andmetöötlejateruum()
-        {
-
+            ArendajateRuum = true;
+            ÜlemusteRuum = true;
+            Köök = true;
+            AndmetetöötlejateRuum = true;
         }
     }
 }

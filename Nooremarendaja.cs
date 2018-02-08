@@ -8,21 +8,13 @@ namespace KT
 {
     class Nooremarendaja: MyProfession
     {
-        public void arendajateruum()
+        public Nooremarendaja()
         {
-
+            ArendajateRuum = true;
+            ÜlemusteRuum = false;
+            Köök = true;
+            AndmetetöötlejateRuum = false;
         }
-        public void ülemusteruum()
-        {
 
-        }
-        public void köök()
-        {
-
-        }
-        public void andmetöötlejateruum()
-        {
-
-        }
     }
 }

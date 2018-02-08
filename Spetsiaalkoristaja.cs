@@ -8,21 +8,12 @@ namespace KT
 {
     class Spetsiaalkoristaja: MyProfession
     {
-        public void arendajateruum()
+        public Spetsiaalkoristaja()
         {
-
-        }
-        public void ülemusteruum()
-        {
-
-        }
-        public void köök()
-        {
-
-        }
-        public void andmetöötlejateruum()
-        {
-
+            ArendajateRuum = true;
+            ÜlemusteRuum = true;
+            Köök = true;
+            AndmetetöötlejateRuum = true;
         }
     }
 }
