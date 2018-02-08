@@ -1,0 +1,7 @@
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\KT\KT\bin\Debug\KT.exe.config
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\KT\KT\bin\Debug\KT.exe
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\KT\KT\bin\Debug\KT.pdb
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\KT\KT\obj\Debug\KT.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\KT\KT\obj\Debug\KT.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\KT\KT\obj\Debug\KT.exe
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\KT\KT\obj\Debug\KT.pdb

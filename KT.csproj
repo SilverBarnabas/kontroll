@@ -42,8 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Andmetöötleja.cs" />
+    <Compile Include="Door.cs" />
+    <Compile Include="Koristaja.cs" />
+    <Compile Include="MyProfession.cs" />
+    <Compile Include="Nooremarendaja.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spetsiaalkoristaja.cs" />
+    <Compile Include="Vanemarendaja.cs" />
+    <Compile Include="Ülemus.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
