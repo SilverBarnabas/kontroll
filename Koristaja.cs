@@ -10,11 +10,11 @@ namespace KT
     {
         public Koristaja()
         {
-            Name = "Koristaja";
             ArendajateRuum = true;
             ÜlemusteRuum = false;
             Köök = true;
             AndmetetöötlejateRuum = true;
+           
         }
     }
 }

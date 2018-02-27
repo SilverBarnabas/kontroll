@@ -14,54 +14,9 @@ namespace KT
         public bool Köök;
         public bool AndmetetöötlejateRuum;
 
-
-        public void arendajateruum()
+        public void sinuAmet()
         {
-            if (ArendajateRuum == true)
-            {
-                Console.WriteLine("Sissepääs arendajateruumi olemas");
-            }
-            else if(ArendajateRuum == false)
-            {
-                Console.WriteLine("Sissepääsu arendajateruumi pole");
-            }
-
-        }
-        public void ülemusteruum()
-        {
-            if(ÜlemusteRuum == true)
-            {
-                Console.WriteLine("Sissepääs ülemusteruumi olemas");
-            }
-            else if(ÜlemusteRuum == false)
-            {
-                Console.WriteLine("Sissepääsu pole");
-            }
-
-
-        }
-        public void köök()
-        {
-            if(Köök == true)
-            {
-                Console.WriteLine("Sissepääs kööki olemas");
-            }
-            else if(Köök == false)
-            {
-                Console.WriteLine("Sissepääsu pole");
-            }
-
-        }
-        public void andmetöötlejateruum()
-        {
-            if(AndmetetöötlejateRuum == true)
-            {
-                Console.WriteLine("Sissepääs andmetöötlejate ruumi olemas");
-            }
-            else if(AndmetetöötlejateRuum == false)
-            {
-                Console.WriteLine("Sissepääsu pole");
-            }
+            Console.WriteLine("Sinu amet: " + Name + ".");
 
         }
     }

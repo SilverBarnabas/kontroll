@@ -10,10 +10,22 @@ namespace KT
     {
         public Nooremarendaja()
         {
+            
             ArendajateRuum = true;
             ÜlemusteRuum = false;
             Köök = true;
             AndmetetöötlejateRuum = false;
+            
+
+
+
+
+
+
+
+
+
+
         }
 
     }

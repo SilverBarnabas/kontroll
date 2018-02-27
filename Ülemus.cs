@@ -11,29 +11,12 @@ namespace KT
 
         public Ülemus()
         {
-            Name = "Ülemus";
             ArendajateRuum = true;
             ÜlemusteRuum = true;
             Köök = true;
             AndmetetöötlejateRuum = true;
+
         }
         
-        
-        public void arendajateruum()
-        {
-
-        }
-        public void ülemusteruum()
-        {
-
-        }
-        public void köök()
-        {
-
-        }
-        public void andmetöötlejateruum()
-        {
-
-        }
     }
 }

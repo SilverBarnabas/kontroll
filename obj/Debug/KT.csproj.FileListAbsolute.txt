@@ -5,3 +5,10 @@ C:\Users\opilane\Documents\Visual Studio 2017\Projects\KT\KT\obj\Debug\KT.csproj
 C:\Users\opilane\Documents\Visual Studio 2017\Projects\KT\KT\obj\Debug\KT.csproj.CoreCompileInputs.cache
 C:\Users\opilane\Documents\Visual Studio 2017\Projects\KT\KT\obj\Debug\KT.exe
 C:\Users\opilane\Documents\Visual Studio 2017\Projects\KT\KT\obj\Debug\KT.pdb
+C:\Users\silve\Documents\GitHub\kontroll\bin\Debug\KT.exe.config
+C:\Users\silve\Documents\GitHub\kontroll\bin\Debug\KT.exe
+C:\Users\silve\Documents\GitHub\kontroll\bin\Debug\KT.pdb
+C:\Users\silve\Documents\GitHub\kontroll\obj\Debug\KT.csprojResolveAssemblyReference.cache
+C:\Users\silve\Documents\GitHub\kontroll\obj\Debug\KT.csproj.CoreCompileInputs.cache
+C:\Users\silve\Documents\GitHub\kontroll\obj\Debug\KT.exe
+C:\Users\silve\Documents\GitHub\kontroll\obj\Debug\KT.pdb

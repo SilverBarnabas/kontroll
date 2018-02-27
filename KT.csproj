@@ -43,15 +43,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Andmetöötleja.cs" />
-    <Compile Include="Door.cs" />
+    <Compile Include="AndmetöötlejaNimi.cs" />
     <Compile Include="Koristaja.cs" />
+    <Compile Include="KoristajaNimi.cs" />
     <Compile Include="MyProfession.cs" />
     <Compile Include="Nooremarendaja.cs" />
+    <Compile Include="NooremarendajaNimi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Spetsiaalkoristaja.cs" />
+    <Compile Include="SpetsiaalkoristajaNimi.cs" />
     <Compile Include="Vanemarendaja.cs" />
+    <Compile Include="VanemarendajaNimi.cs" />
     <Compile Include="Ülemus.cs" />
+    <Compile Include="ÜlemusNimi.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

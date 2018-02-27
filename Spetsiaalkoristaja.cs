@@ -14,6 +14,8 @@ namespace KT
             ÜlemusteRuum = true;
             Köök = true;
             AndmetetöötlejateRuum = true;
+
         }
+
     }
 }
